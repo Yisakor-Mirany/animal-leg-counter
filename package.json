@@ -1,0 +1,15 @@
+{
+  "name": "animal-leg-counter",
+  "version": "1.0.0",
+  "description": "Count how many animals have exactly four legs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
